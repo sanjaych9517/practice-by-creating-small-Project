@@ -1,11 +1,14 @@
+import Navbar from "./component/headerNavigation/navbar";
+
 
 function App() {
-  
   return (
     <>
-     <h1 className="bg-red-400">Hellow world</h1>
+      <Navbar />
+
+    
     </>
-  )
+  );
 }
 
-export default App
+export default App;
