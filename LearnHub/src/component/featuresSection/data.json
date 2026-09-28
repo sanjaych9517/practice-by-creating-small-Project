@@ -1,0 +1,22 @@
+ [
+    {
+      "icon": "🖥️",
+      "title": "Expert Instructors",
+      "description": "Learn from industry experts"
+    },
+    {
+      "icon": "▶️",
+      "title": "Flexible Learning",
+      "description": "Learn at your own pace"
+    },
+    {
+      "icon": "👥",
+      "title": "Lifetime Access",
+      "description": "Learn anytime, anywhere"
+    },
+    {
+      "icon": "🏆",
+      "title": "Certificate",
+      "description": "Get certified & grow"
+    }
+  ]
