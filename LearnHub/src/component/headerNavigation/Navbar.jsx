@@ -6,7 +6,7 @@ import Button from "./Button";
 
 const Navbar = () => {
   return (
-    <div className="flex justify-around items-center  text-[1.8rem] p-4 shadow-xl ">
+    <div className="flex justify-around items-center  text-[1.8rem] p-4 shadow-xl font-serif  ">
       <Logo />
       <Links />
 
@@ -16,7 +16,7 @@ const Navbar = () => {
         <Button
           title="Sign Up"
           className={"bg-[#0066FF] px-7 border rounded-xl text-white"}
-        />{" "}
+        />
       </div>
     </div>
   );

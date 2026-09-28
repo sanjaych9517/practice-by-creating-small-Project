@@ -2,8 +2,8 @@ import React from 'react'
 
 const Heading = () => {
   return (
-    <div>
-      <h1>Upgrade Your Skills For a Better Tommorow</h1>
+    <div className='font-sans'>
+      <h1 className='font-bold text-5xl ' >Upgrade Your Skills For a Better Tommorow</h1>
     </div>
   )
 }

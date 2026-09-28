@@ -4,12 +4,18 @@ import Divide from "./Divide";
 
 const Links = () => {
   return (
-    <div className="flex gap-3 text-[#0066FF] font-bold ">
-      <NavLink to="/learn">LEARN</NavLink>
+    <div className={`flex gap-3 text-[#0066FF]  text-3xl font-sans `}>
+      <NavLink to="/learn" className="nav-link">
+        LEARN
+      </NavLink>
       <Divide />
-      <NavLink to="/learn">PRACTICE</NavLink>
+      <NavLink to="/practice" className="nav-link">
+        PRACTICE
+      </NavLink>
       <Divide />
-      <NavLink to="/learn">GROW</NavLink>
+      <NavLink to="/grow" className="nav-link">
+        GROW
+      </NavLink>
     </div>
   );
 };
