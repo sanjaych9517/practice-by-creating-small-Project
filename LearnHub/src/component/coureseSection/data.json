@@ -1,0 +1,48 @@
+ [
+      {
+        "id": 1,
+        "title": "Web Development",
+        "category": "Full Stack Web Development",
+        "image": "https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto/v1/attachments/generic_asset/asset/767bc10a0c44b0a67be1a94aea270205-1609336032121/website%20development-min.jpg",
+        "rating": 4.8,
+        "reviews": 2712,
+        "price": 4999,
+        "currency": "₹",
+        "link": "/courses/web-development"
+      },
+      {
+        "id": 2,
+        "title": "UI/UX Design",
+        "category": "UI/UX Design Masterclass",
+        "image": "https://img.magnific.com/free-vector/gradient-ui-ux-elements-background_23-2149056159.jpg?semt=ais_hybrid&w=740&q=80",
+        "rating": 4.7,
+        "reviews": 1982,
+        "price": 3999,
+        "currency": "₹",
+        "link": "/courses/ui-ux-design"
+      },
+      {
+        "id": 3,
+        "title": "Data Science",
+        "category": "Data Science with Python",
+        "image": "https://img.magnific.com/free-vector/illustration-social-media-concept_53876-18141.jpg",
+        "rating": 4.6,
+        "reviews": 1563,
+        "price": 4499,
+        "currency": "₹",
+        "link": "/courses/data-science"
+      },
+      {
+        "id": 4,
+        "title": "Digital Marketing",
+        "category": "Digital Marketing Strategy",
+        "image": "https://victoriousdigital.in/wp-content/uploads/2026/01/Digital-marketing-workspace-with-analytical-tools.jpg",
+        "rating": 4.6,
+        "reviews": 2324,
+        "price": 3499,
+        "currency": "₹",
+        "link": "/courses/digital-marketing"
+      }
+    
+    ]
+  
